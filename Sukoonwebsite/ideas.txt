@@ -1,0 +1,10 @@
+
+1. **Login Page**: This is the entry point for authorized users. They should provide their credentials here to access the patient information.
+
+2. **Dashboard**: After logging in, users land on a dashboard that provides an overview of the system. It could show summary statistics or notifications.
+
+3. **Patient List**: This page shows a list of all patients. Each entry should be clickable and lead to the detailed view of the patient.
+
+4. **Patient Detail View**: This page shows all information related to a specific patient, including their EEG data, medication history, and emergency contact information.
+
+5. **Data Upload/Update Page**: This page allows authorized users to upload new EEG data or update existing patient information.
