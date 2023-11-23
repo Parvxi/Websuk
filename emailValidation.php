@@ -2,8 +2,8 @@
 
 // Assuming you have a database connection established, replace these placeholders with your actual values.
 $servername = "localhost";
-$username = "sh_ha"; 
-$password = "Shosho@6913"; 
+$username = ""; 
+$password = ""
 $dbname = "email"; 
 
 $email = $_POST['email'];
